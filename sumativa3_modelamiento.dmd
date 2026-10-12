@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sumativa3_modelamiento" id="825C7A7E-0480-F315-2EB3-FC30312595A4" version="3.5">
-<createdBy>maria jose</createdBy>
-<createdTime>2026-10-06 19:55:15 UTC</createdTime>
-<ownerDesignName>sumativa3_modelamiento</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>825C7A7E-0480-F315-2EB3-FC30312595A4</designId>
-</OSDM_Design>
